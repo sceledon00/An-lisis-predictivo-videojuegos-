@@ -1,5 +1,4 @@
-# webscraping-steam
-## _Analítica predictiva y prescriptiva - Predicción de videojuegos exitosos_
+# _Analítica predictiva y prescriptiva - Predicción de videojuegos exitosos_
 
 #### Descripción
 
